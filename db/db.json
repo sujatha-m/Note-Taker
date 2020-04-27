@@ -1,1 +1,12 @@
-[{"title":"Test Title","text":"Test text"}]
+[
+  {
+    "title": "Go grocery shopping",
+    "text": "Buy groceries for the party",
+    "id": 1
+  },
+  {
+    "title": "Yoga",
+    "text": "Do yoga in the morning",
+    "id": 2
+  }
+]
