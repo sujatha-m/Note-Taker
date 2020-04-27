@@ -4,6 +4,7 @@
 https://safe-crag-29613.herokuapp.com/
 
 ## Table of Contents
+   * [User Story](#user-story)
    * [Description](#description)
    * [Usage](#usage)
    * [Built with](#built-with)
@@ -14,13 +15,21 @@ https://safe-crag-29613.herokuapp.com/
    * [Tests](#tests)
    * [Visuals](#visuals)
 
+## User Story
+```
+AS A user, I want to be able to write and save notes
+I WANT to be able to delete notes I've written before
+SO THAT I can organize my thoughts and keep track of tasks I need to complete
+
+```
+
 ## Description
 
 An application that can be used to write, save, and delete notes.
 
-This application will use an express backend and save and retrieve note data from a JSON file.
-
 The user will be able to write and save notes. The user will also be able to delete notes they have written before SO they can organize their thoughts and keep track of tasks that need to be completed.
+
+This application will use an express backend and save and retrieve note data from a JSON file.
 
 ## Badges
 [![gf](https://img.shields.io/github/followers/sujatha-m?style=social)](https://img.shields.io/github/followers/sujatha-m?style=social)
